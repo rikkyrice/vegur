@@ -1,0 +1,2 @@
+module TraveljapanHelper
+end
